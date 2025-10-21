@@ -2,17 +2,18 @@
 <h1 align="center">Hi, I'm Sidhant Jha 👋</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=600&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+Cybersecurity+Enthusiast;Lifelong+Learner+%7C+I+build+scalable%2C+impactful+products.">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=600&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+Cybersecurity+Enthusiast;Lifelong+Learner+%7C+I+build+scalable%2C+impactful+products." alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=820&color=1F2937&background=FFFFFF00&lines=AI+%26+ML+%7C+Full-Stack+Developer;Cloud+%26+Cybersecurity+Learner;Curious+builder,+upcoming+entrepreneur;Always+learning+—+open+to+collaboration">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=820&color=1F2937&background=FFFFFF00&lines=AI+%26+ML+%7C+Full-Stack+Developer;Cloud+%26+Cybersecurity+Learner;Curious+builder,+upcoming+entrepreneur;Always+learning+—+open+to+collaboration" alt="Typing headline" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SenseiJha?tab=followers">
-    <img src="https://img.shields.io/github/followers/SenseiJha?label=Follow%20Me&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/SenseiJha?label=Follow%20me&style=flat&color=0A66C2" alt="Follow me" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SenseiJha&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SenseiJha&style=flat&color=9CA3AF" alt="Profile views" />
 </p>
+
 
 ---
 
