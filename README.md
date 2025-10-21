@@ -1,5 +1,5 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sidhant%20Jha%20💻&fontSize=45&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Web%20Developer%20%7C%20Cloud%20%26%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Sidhant%20Jha%20⚡&fontSize=45&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50&fontColor=ffffff)
+
 
 # 👋 Hi, I'm Sidhant Jha
 🚀 Passionate about building impactful digital experiences — blending technology, creativity, and innovation.  
