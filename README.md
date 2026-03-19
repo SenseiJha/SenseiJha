@@ -1,4 +1,4 @@
-<!-- Clean, minimal hero (no header image) -->
+<!-- Clean, minimal hero -->
 <h1 align="center">Sidhant Jha</h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=820&color=1F2937&background=FFFFFF00&lines=AI+%26+ML+%7C+Full-Stack+Developer;Cloud+%26+Cybersecurity;Systems+%26+Architecture+Thinking;Consistent+execution+over+hype">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=820&color=1F2937&background=FFFFFF00&lines=AI+%26+ML+%7C+Full-Stack+Developer;Cloud+%26+Cybersecurity;Systems+%26+Architecture+Thinking;Consistent+execution+over+hype" alt="Typing headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&center=true&vCenter=true&width=820&color=1F2937&background=FFFFFF00&lines=AI+%26+ML+%7C+Full-Stack+Developer;Cloud+%26+Cybersecurity;Systems+%26+Architecture+Thinking;Consistent+execution+over+hype" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@
 ## 🧠 About
 
 - Works across **AI/ML, Cloud, and Full-Stack systems**  
-- Strong focus on **clean architecture, performance, and fundamentals**  
-- Interested in **security, distributed systems, and real-world scalability**  
-- Builds with the intent that it **should hold up over time**
+- Focus on **clean architecture, performance, and fundamentals**  
+- Interested in **security, distributed systems, and scalability**  
+- Builds things that are meant to **hold up over time**
 
 No rush. Just consistent output.
 
@@ -109,11 +109,34 @@ No rush. Just consistent output.
 ---
 
 ## 🚀 Featured Work
-- 🧠 [X-Ray Project](https://github.com/SenseiJha/X-Ray-Project)  
-- 🎧 [Spotify Clone](https://github.com/SenseiJha/Spotify-Clone)  
-- 🍴 [Restaurant Website](https://github.com/SenseiJha/Restaurant-Website)  
-- 🎮 [Snake Arena](https://github.com/SenseiJha/Snake-Arena-Game)  
-- 💻 [Operating Systems](https://github.com/SenseiJha/Operating-Systems-Java)
+
+- ⚡ **Elevai**  
+  AI-assisted career guidance platform  
+  → [Repo](https://github.com/SenseiJha/Elevai) • [Live](https://elevai.vercel.app/)
+
+- 🌿 **Reset**  
+  On-demand cleanup & space reset platform  
+  → [Repo](https://github.com/SenseiJha/reset-cleaning-platform) • [Live](https://reset-cp.vercel.app/)
+
+- ⚔️ **Sensei Portfolio**  
+  Personal portfolio — design, systems, and identity  
+  → [Live](https://sensei-jha.vercel.app/)
+
+- 🧠 **X-Ray Project**  
+  AI-based diagnostic model  
+  → [Repo](https://github.com/SenseiJha/X-Ray-Project)
+
+- 🎧 **Spotify Clone**  
+  Full-stack music interface  
+  → [Repo](https://github.com/SenseiJha/Spotify-Clone)
+
+- 🎮 **Snake Arena**  
+  Game mechanics + interaction  
+  → [Repo](https://github.com/SenseiJha/Snake-Arena-Game)
+
+- 💻 **Operating Systems**  
+  Core OS concepts in Java  
+  → [Repo](https://github.com/SenseiJha/Operating-Systems-Java)
 
 ---
 
